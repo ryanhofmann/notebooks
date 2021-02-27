@@ -11,10 +11,10 @@
 alma/
 alma3syn/
 alma6/
-Atmos/
-Atoms/
+Atmos
+Atoms
 both/
-Molecules/
+Molecules
 nlte/
 obs/
 scratch/
